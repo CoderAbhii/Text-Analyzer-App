@@ -1,0 +1,1 @@
+This Is Our Final TexT - AnalyzeR App. It Is Made My Function Based Components In React.JS.
